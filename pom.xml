@@ -19,8 +19,8 @@
 	</properties>
 
 	<modules>
-		<module>fr.mosig.internship.cdl.parent</module>
-		<module>fr.mosig.internship.chsm.parent</module>
+		<module>cdl</module>
+		<module>cbml</module>
 	</modules>
 
 	<dependencies>

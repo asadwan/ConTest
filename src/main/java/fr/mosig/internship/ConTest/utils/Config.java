@@ -56,7 +56,7 @@ public class Config {
 	} 
 	
     private Document parseConfigFile(InputStream is)
-            throws FileNotFoundException, ParserConfigurationException,
+            throws ParserConfigurationException,
             SAXException, IOException {
         DocumentBuilderFactory docBuilderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder docBuilder = docBuilderFactory.newDocumentBuilder();
