@@ -11,5 +11,5 @@ import org.eclipse.emf.ecore.EObject;
  */
 public interface ModelLoader {
 	
-	public <T extends EObject> T load(String path);
+	EObject load(String path);
 }

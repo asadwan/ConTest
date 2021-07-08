@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<models>
+		<dev>/Users/asadwan/Documents/Internship/dev/ConTest/src/main/resources/DevModel.chsm</dev>
+		<context>/Users/asadwan/Documents/Internship/dev/ConTest/src/main/resources/ContextModel.cdl</context>
+	</models>
+	
+	<testCoverage>
+		<contextCriteria></contextCriteria>
+		<graphCriteria></graphCriteria>
+	</testCoverage>
+</config>
