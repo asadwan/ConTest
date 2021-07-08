@@ -1,0 +1,6 @@
+[submodule "cdl"]
+	path = cdl
+	url = https://github.com/asadwan/cdl
+[submodule "cbml"]
+	path = cbml
+	url = https://github.com/asadwan/cbml

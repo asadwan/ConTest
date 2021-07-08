@@ -8,6 +8,7 @@
 	<groupId>fr.mosig.internship</groupId>
 	<artifactId>ConTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 
 	<name>ConTest</name>
 	<url>https://mosig.imag.fr</url>
@@ -16,6 +17,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.release>15</maven.compiler.release>
 	</properties>
+
+	<modules>
+		<module>fr.mosig.internship.cdl.parent</module>
+		<module>fr.mosig.internship.chsm.parent</module>
+	</modules>
 
 	<dependencies>
 		<dependency>
